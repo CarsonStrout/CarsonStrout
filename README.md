@@ -27,6 +27,12 @@ I'm currently a student attending the Games, Interactive Media, and Mobile Techn
 * <a href="https://github.com/CarsonStrout/JumpMonkeJump">Jump Monke Jump</a> - Multiplayer AR Platformer
 * <a href="https://github.com/CarsonStrout/DustyFrontier">Dusty Frontier</a> - 2D Western Platformer
 
+#
+
+### Currently Working On
+* An interactive comic that explores several aspects of quantum mechanics
+* A 15-day long game jam
+
 ---
 
 ### Stats
