@@ -26,7 +26,7 @@ I'm currently a student attending the Games, Interactive Media, and Mobile Techn
 ### My Favorite Project Repos
 * <a href="https://github.com/CarsonStrout/JumpMonkeJump">Jump Monke Jump</a> - Multiplayer AR Platformer
 * <a href="https://github.com/CarsonStrout/DustyFrontier">Dusty Frontier</a> - 2D Western Platformer
-* <a href="https://github.com/CarsonStrout/ShadowAdventure">Shadow Adventure</a> - 2D Platformer focused on learning game development - My first game project
+* <a href="https://github.com/CarsonStrout/ShadowAdventure">Shadow Adventure</a> - 2D Platformer experimenting with different mechanics - My first game project
 
 #
 
