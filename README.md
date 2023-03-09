@@ -33,7 +33,6 @@ I'm currently a student attending the Games, Interactive Media, and Mobile Techn
 ### Currently Working On
 * An interactive comic that explores several aspects of quantum mechanics
 * A VR-based animation that features a hybrid of 3D models and 2D animations
-* A 15-day long game jam
 
 ---
 
