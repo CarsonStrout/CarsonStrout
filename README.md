@@ -1,5 +1,19 @@
 ## Hey there, I'm Carson 👋
-I'm currently a student attending the Games, Interactive Media, and Mobile Technology program at Boise State University. When I'm not creating games or programming, you can often find me watching movies, playing video games, or even working out.
+I'm currently a student attending the <a
+							href="https://www.boisestate.edu/gimm/"
+							>Games, Interactive Media, & Mobile Technology</a
+						> program at Boise State University. When I'm not creating games or programming, you can often find me watching movies, playing video games, or even working out.
+
+Additionally, I am participating
+						in the
+						<a
+							href="https://microgravityuniversity.jsc.nasa.gov/nasasuits"
+							target="_blank"
+							class="link"
+							>NASA SUITS program</a
+						>
+						with a focus on
+						<strong>Biometric / Spacesuit Data and Live Maps</strong>.
 
 ---
 
@@ -24,15 +38,16 @@ I'm currently a student attending the Games, Interactive Media, and Mobile Techn
 #
 
 ### My Favorite Project Repos
-* <a href="https://github.com/CarsonStrout/JumpMonkeJump">Jump Monke Jump</a> - Multiplayer AR Platformer
-* <a href="https://github.com/CarsonStrout/DustyFrontier">Dusty Frontier</a> - 2D Western Platformer
-* <a href="https://github.com/CarsonStrout/ShadowAdventure">Shadow Adventure</a> - 2D Platformer experimenting with different mechanics - My first game project
+* <a href="https://github.com/CarsonStrout/A-Thiefs-Dilemma">A Thief's Dilemma</a> - An interactive comic that explores the concepts of quantum mechanics on a larger scale.
+* <a href="https://github.com/CarsonStrout/DeadWest">Dead West</a> - A hybrid animation that features a mix of 3D models and 2D animations. Includes an option for gaze tracking so the user can actively look around the scene.
+* <a href="https://github.com/CarsonStrout/JumpMonkeJump">Jump Monke Jump</a> - An Android application that uses the camera’s AR capabilities to place a competitive, 2-player platformer game in the real world.
 
 #
 
 ### Currently Working On
-* An interactive comic that explores several aspects of quantum mechanics
-* A VR-based animation that features a hybrid of 3D models and 2D animations
+* A VR western roguelike
+* A procedural space flight game
+* A baseball season simulator
 
 ---
 
