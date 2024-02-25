@@ -1,10 +1,12 @@
-## Hey there, I'm Carson 👋
-I'm currently a student attending the <a
-							href="https://www.boisestate.edu/gimm/"
-							>Games, Interactive Media, & Mobile Technology</a
-						> program at Boise State University. When I'm not creating games or programming, you can often find me watching movies, playing video games, or even working out.
+## Hello! I'm Carson 👋
+I'm an aspiring <b>game designer and programmer</b> passionate about creating <b>cinematic, immersive gaming experiences</b> that blend innovative storytelling with cutting-edge technology.
 
-Additionally, I am participating
+Currently, I'm honing my skills at Boise State University, specializing in <a
+							href="https://www.boisestate.edu/gimm/"
+							>Games, Interactive Media, & Mobile Technology.</a
+						>
+
+I'm also engaged in innovative projects like developing applications for autistic children and participating in the
 						in the
 						<a
 							href="https://microgravityuniversity.jsc.nasa.gov/nasasuits"
@@ -12,22 +14,28 @@ Additionally, I am participating
 							class="link"
 							>NASA SUITS program</a
 						>
-						with a focus on
-						<strong>Biometric / Spacesuit Data and Live Maps</strong>.
+						focusing on
+						<strong>biometrics and spatial data visualization</strong>.
+						
+Outside of game development, my interests in outdoor adventures and film further inspire and shape my approach to game design.
 
 ---
 
 ### Languages and Tools
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
+<img align="left" alt="Maya" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" />
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
@@ -49,9 +57,9 @@ Additionally, I am participating
 #
 
 ### Currently Working On
-* A VR western roguelike
-* A procedural space flight game
-* A baseball season simulator
+* <b>A variety of client projects</b>
+* <b>A VR Western Roguelike</b>
+* <b>A Machine Learning Project</b>
 
 ---
 
