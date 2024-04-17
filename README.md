@@ -6,16 +6,7 @@ Currently, I'm honing my skills at Boise State University, specializing in <a
 							>Games, Interactive Media, & Mobile Technology.</a
 						>
 
-I'm also engaged in innovative projects like developing applications for autistic children and participating in the
-						in the
-						<a
-							href="https://microgravityuniversity.jsc.nasa.gov/nasasuits"
-							target="_blank"
-							class="link"
-							>NASA SUITS program</a
-						>
-						focusing on
-						<strong>biometrics and spatial data visualization</strong>.
+I'm also engaged in innovative projects like creating Unity projects for a variety of clients, making an indie studio game, and developing applications for disabled and autistic children.
 						
 Outside of game development, my interests in outdoor adventures and film further inspire and shape my approach to game design.
 
@@ -50,15 +41,15 @@ Outside of game development, my interests in outdoor adventures and film further
 #
 
 ### My Favorite Project Repos
+* <a href="https://github.com/CarsonStrout/SixShooter">Six Shooter</a> - An old-school, VR roguelike, heavily inspired by Spaghetti Westerns of the mid-to-late 1960s.
 * <a href="https://github.com/CarsonStrout/A-Thiefs-Dilemma">A Thief's Dilemma</a> - An interactive comic that explores the concepts of quantum mechanics on a larger scale.
 * <a href="https://github.com/CarsonStrout/DeadWest">Dead West</a> - A hybrid animation that features a mix of 3D models and 2D animations. Includes an option for gaze tracking so the user can actively look around the scene.
-* <a href="https://github.com/CarsonStrout/JumpMonkeJump">Jump Monke Jump</a> - An Android application that uses the camera’s AR capabilities to place a competitive, 2-player platformer game in the real world.
 
 #
 
 ### Currently Working On
-* <b>A variety of client projects</b>
-* <b>A VR Western Roguelike</b>
+* <b>A Variety of Client Projects</b>
+* <b>An Indie Studio Game</b>
 * <b>A Machine Learning Project</b>
 
 ---
