@@ -53,7 +53,3 @@ Outside of game development, my interests in outdoor adventures and film further
 * <b>A Machine Learning Project</b>
 
 ---
-
-### Stats
-
-![Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonStrout&show_icons=true&theme=aura)
