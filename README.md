@@ -57,7 +57,3 @@ Check out some of my <b>latest projects</b> below or reach out—I'm always up f
   * Analyzing world design in various games and applying insights to create an original, immersive game environment with a strong atmospheric focus.
 
 ---
-
-### Stats
-
-![Carson's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonStrout&show_icons=true&theme=aura)
