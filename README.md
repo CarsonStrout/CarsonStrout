@@ -5,7 +5,7 @@ I'm currently wrapping up my <b>Games, Interactive Media, & Mobile Technology</b
 
 Beyond game development, I find inspiration in <b>film, outdoor exploration, and dynamic storytelling</b>, all of which shape my creative approach.
 
-Check out some of my <b>latest projects</b> below or reach out—I'm always up for discussing game development, collaboration, or creative problem-solving!
+Check out some of my <b>latest projects</b> below or reach out. I'm always up for discussing game development, collaboration, or creative problem-solving!
 
 ---
 
